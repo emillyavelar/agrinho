@@ -14,5 +14,5 @@ CSS
 
 Instruções de Uso
 Clone o repositório:
-git clone [URL_DO_REPOSITORIO]
+git clone [(https://github.com/emillyavelar/agrinho.git)]
 Abra o arquivo index.html em um navegador para visualizar o site.
